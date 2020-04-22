@@ -1,0 +1,19 @@
+{
+  "name": "blog-management-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^2.2.3",
+    "koa": "^2.6.2",
+    "koa-cors": "0.0.16",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa-xtpl": "^2.1.1"
+  }
+}
